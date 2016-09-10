@@ -2,7 +2,6 @@ import gulp from 'gulp';
 import sass from 'gulp-sass';
 import postcss from 'gulp-postcss';
 import sourcemaps from 'gulp-sourcemaps';
-import gutil from 'gulp-util';
 import browserify from 'browserify';
 import watchify from 'watchify';
 import babelify from 'babelify';
