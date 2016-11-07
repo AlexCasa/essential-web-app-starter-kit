@@ -4,7 +4,7 @@ Essential starter kit for web application.
 
 ## Usage
 
-- Install dependencies: `npm install`
+- Install dependencies: `npm install` or `yarn`
 
 - Run dev: `gulp watch`
 

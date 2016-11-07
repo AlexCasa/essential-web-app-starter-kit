@@ -1,9 +1,7 @@
 
 .idea
 
-.firebaserc
-
-firebase.json
+yarn.lock
 
 node_modules
 
