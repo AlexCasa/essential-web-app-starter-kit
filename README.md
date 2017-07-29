@@ -21,6 +21,7 @@ The project must have the following structure:
   public/
       ...
 ```
+Note that `app/scripts/main.js` act as the build entry, recursively all the required module are bundle up into `public/bundle.js`.
 
 ## License
 
