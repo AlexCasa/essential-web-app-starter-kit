@@ -10,6 +10,19 @@ Essential starter kit for web application.
 
 - Run dist: `gulp build`
 
+## Conventions
+
+The project must have the following structure:
+```
+  app/
+    scripts/
+    styles/
+    images/
+    server/
+  public/
+      ...
+```
+
 ## License
 
 [MIT License](http://opensource.org/licenses/MIT)
