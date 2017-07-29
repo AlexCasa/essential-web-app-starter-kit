@@ -18,7 +18,6 @@ The project must have the following structure:
     scripts/
     styles/
     images/
-    server/
   public/
       ...
 ```
