@@ -2,6 +2,14 @@
 
 Essential starter kit for web application.
 
+## Features
+
+- Compiles Scss to CSS
+- Scss live reload
+- CSS Autoprefixer
+- CSS Minifier
+- Watchify & Browserify
+
 ## Usage
 
 - Install dependencies: `npm install` or `yarn`
