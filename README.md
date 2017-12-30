@@ -1,4 +1,4 @@
-# essential-web-app-starter-kit
+# EWASK
 
 Essential starter kit for web application.
 
