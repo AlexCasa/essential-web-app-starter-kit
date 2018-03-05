@@ -4,7 +4,8 @@ Essential starter kit for web application.
 
 ## Features
 
-- CSS live reload
+- Compiles Scss to CSS
+- Scss live reload
 - CSS Autoprefixer
 - CSS Minifier
 - Watchify & Browserify
