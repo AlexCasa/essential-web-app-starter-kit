@@ -4,7 +4,6 @@ Essential starter kit for web application.
 
 ## Features
 
-- Compiles Scss to CSS
 - Scss live reload
 - CSS Autoprefixer
 - CSS Minifier
