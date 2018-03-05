@@ -4,7 +4,7 @@ Essential starter kit for web application.
 
 ## Features
 
-- Scss live reload
+- CSS live reload
 - CSS Autoprefixer
 - CSS Minifier
 - Watchify & Browserify
